@@ -3,17 +3,6 @@
 1. 可上传多个文件
 
 
-
-
-
-My Calibre WebServer
-====================
-A simple books library management website. Use Calibre as backend.
-
-See a running instance of demo:
-
-https://demo.talebook.org
-
 简单的图书管理系统
 ===================
 这是一个基于Calibre的简单的图书管理系统，支持**在线阅读**。主要特点是：
